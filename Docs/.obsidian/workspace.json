@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "полезные Altium команды.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "полезные Altium команды"
+              "title": "README"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "разводка платы в Altium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "разводка платы в Altium"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "полезные Altium команды.md",
+                "file": "разводка платы в Altium.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of полезные Altium команды"
+              "title": "Outline of разводка платы в Altium"
             }
           }
         ],
@@ -197,11 +198,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "2dac68a40bc34345",
+  "active": "f5fc67f5f5c637ae",
   "lastOpenFiles": [
     "README.md",
-    "пины для разводки платы.md",
+    "разводка платы в Altium.md",
     "полезные Altium команды.md",
+    "пины для разводки платы.md",
     "описание пинов I2S.md",
     "используемые пины.md",
     "CH32FV2x_V3xRM.PDF",
