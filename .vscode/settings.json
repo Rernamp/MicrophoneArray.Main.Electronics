@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "__Previews": true,
+        "History": true,
+        "Libraries": true,
+        "Project Logs for MicrophoneArray.Main": true,
+        "*.Prj*": true,
+        "*.Sch*": true,
+        "Docs": false,
+        "README.md": false
+    }
+}
