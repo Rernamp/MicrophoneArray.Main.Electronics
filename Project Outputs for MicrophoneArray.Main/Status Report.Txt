@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [MicrophoneArray.Main.PcbDoc]
+   Generated File[MicrophoneArray.Main.TXT]
+   Generated File[MicrophoneArray.Main.DRL]
+   Generated File[MicrophoneArray.Main.LDP]
+   Generated File[MicrophoneArray.Main.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 18:06:41 On 15.07.2026

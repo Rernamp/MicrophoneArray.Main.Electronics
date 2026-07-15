@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MicrophoneArray.Main.PcbDoc   15.07.2026  18:06:41
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MicrophoneArray.Main.TXT
+EIA File   : MicrophoneArray.Main.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      1mm (39mil)                                               Round             10        PTH        22.86mm (0.90inch)
+T2      1.02mm (40mil)                                            Round             58        PTH        213.36mm (8.40inch)
+T3      3.2mm (126mil)                                            Round             2         PTH        75.33mm (2.97inch)
+T4      4mm (157mil)                                              Round             2         PTH        59.52mm (2.34inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              72
+
+Total Processing Time (hh:mm:ss) : 00:00:00
