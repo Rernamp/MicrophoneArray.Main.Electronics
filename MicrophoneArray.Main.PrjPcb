@@ -142,92 +142,113 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=Build.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for MicrophoneArray.Main\Design Rule Check - MicrophoneArray.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.DRR
+DocumentPath=Project Outputs for MicrophoneArray.Main\NC Drill\MicrophoneArray.Main.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.EXTREP
+DocumentPath=Project Outputs for MicrophoneArray.Main\NC Drill\MicrophoneArray.Main.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GBL
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GBO
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GBP
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GBS
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GD1
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GKO
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GM1
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GM9
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GM13
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GM9
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GPB
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GPT
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GTL
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GTO
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GTP
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.GTS
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.LDP
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.REP
+DocumentPath=Project Outputs for MicrophoneArray.Main\NC Drill\MicrophoneArray.Main.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.RUL
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.REP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for MicrophoneArray.Main\MicrophoneArray.Main.TXT
+DocumentPath=Project Outputs for MicrophoneArray.Main\Gerber\MicrophoneArray.Main.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for MicrophoneArray.Main\NC Drill\MicrophoneArray.Main.TXT
 DItemRevisionGUID=
 
 [Configuration1]
